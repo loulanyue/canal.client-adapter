@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/canal.client-adapter.iml" filepath="$PROJECT_DIR$/canal.client-adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/client-adapter.common.iml" filepath="$PROJECT_DIR$/common/client-adapter.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elasticsearch/client-adapter.elasticsearch.iml" filepath="$PROJECT_DIR$/elasticsearch/client-adapter.elasticsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbase/client-adapter.hbase.iml" filepath="$PROJECT_DIR$/hbase/client-adapter.hbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/launcher/client-adapter.launcher.iml" filepath="$PROJECT_DIR$/launcher/client-adapter.launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logger/client-adapter.logger.iml" filepath="$PROJECT_DIR$/logger/client-adapter.logger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rdb/client-adapter.rdb.iml" filepath="$PROJECT_DIR$/rdb/client-adapter.rdb.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="client-adapter.common" />
+        <module name="client-adapter.logger" />
+        <module name="client-adapter.elasticsearch" />
+        <module name="client-adapter.rdb" />
+        <module name="client-adapter.hbase" />
+        <module name="client-adapter.launcher" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="canal.client-adapter" target="1.8" />
+      <module name="client-adapter.common" target="1.8" />
+      <module name="client-adapter.elasticsearch" target="1.8" />
+      <module name="client-adapter.hbase" target="1.8" />
+      <module name="client-adapter.launcher" target="1.8" />
+      <module name="client-adapter.logger" target="1.8" />
+      <module name="client-adapter.rdb" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

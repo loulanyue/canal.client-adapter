@@ -1,0 +1,7 @@
+# Project exclude paths
+/common/target/
+/elasticsearch/target/
+/hbase/target/
+/launcher/target/
+/logger/target/
+/rdb/target/
